@@ -1,0 +1,18 @@
+.imagem-carousel-um{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carousel-dois{
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo, .navbar{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: darkred;
+}
