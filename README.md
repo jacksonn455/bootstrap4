@@ -6,6 +6,7 @@ Bootstrap 4: Landing page
 - Conhecendo o HTML semântico e inserindo cards
 - Alinhando elementos com Bootstrap Grid
 - Modais e últimos ajustes
+- Acesso em:  https://jacksonn455.github.io/bootstrap4/.
 
 --------------------
  ![](https://github.com/jacksonn455/bootstrap4/blob/master/src/img/readme.jpg)
